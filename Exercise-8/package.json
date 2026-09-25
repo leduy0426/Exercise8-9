@@ -1,0 +1,13 @@
+{
+  "name": "exercise-8-handling-errors",
+  "version": "1.0.0",
+  "description": "Exercise 8 - Handling errors in Express.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
